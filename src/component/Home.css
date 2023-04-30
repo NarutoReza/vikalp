@@ -1,0 +1,9 @@
+.form-group{
+    align-items: center;
+}
+
+.form-control{
+    width: 400px;
+    align-items: center;
+    margin: auto;
+}
