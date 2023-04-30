@@ -38,7 +38,7 @@ const Home = () => {
         e.preventDefault()
         emp(data)
         console.log(data)
-        window.location.href = 'http://localhost:3000'
+        window.location.href = 'http://localhost:3000/download-admit'
     }
 
     return(
